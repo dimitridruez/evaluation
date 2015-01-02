@@ -1,5 +1,4 @@
 evaluation
 ==========
-2janvier: les deux morts, sont revenus à la vie! Biensur ils n’ont pas encore fait ce qu’il devaient faire! Je laisse couler.
-
-je me suis résigné a faire un wordpress en installent un pluging pour la police! nathan donnant plus de signe de vie.
+Ma contribution au Wordpress: réalisation de la charte graphique,logo, installation du thème, du pluging, et articles. compte hostinger, installation du wordpress.
+quelques excercices sur Codecademy(html & css et javascript)
